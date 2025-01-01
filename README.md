@@ -1,10 +1,10 @@
 # Secure-login-signup-with-custom-password-hashing-and-salting
 The system is built using React for the frontend, Express.js for the backend, and utilizes XAMPP for hosting the SQL database through phpMyAdmin. It incorporates robust security measures with a custom double-hashing algorithm to secure passwords.
 
-![Image](./assets/main.jpg)
-![Image](./assets/login.jpg)
-![Image](./assets/register.jpg)
-![Image](./assets/hashed.jpg)
+![Image](./assets/main.jpeg)
+![Image](./assets/login.jpeg)
+![Image](./assets/register.jpeg)
+![Image](./assets/hashed.jpeg)
 
 ## Frontend (React):
 - Users can register and log in through interactive forms.
