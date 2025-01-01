@@ -1,0 +1,61 @@
+
+#h{
+    margin-bottom: 20px;
+}
+.contact{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(rgba(142, 46, 180, 0.3), rgba(49, 49, 211, 0.3)),  url('e-comm.jpg');
+    background-size: cover;
+}
+
+.footerc {
+    margin-top: 15vh;
+    background-color:rgb(187, 149, 225);
+    padding: 20px;
+    width: 100vw;
+    text-align: center; 
+}
+
+.contactus{
+    width: 100vw;
+    display: inline-block; 
+}
+
+#h1{
+    text-align: center;
+    /* font-family:  'serif'; */
+    font-size: 35px;
+    color: rgb(32, 32, 32);
+    margin-top: 20px;
+}
+
+.info-item {
+    display: inline-block;
+    margin: 0;
+    padding: 0 15px;
+}
+
+.icon {
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+.contact-info .e {
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.contact-info #h {
+    font-size: 8px;
+    margin: 0;
+}
+
+.footerc {
+    box-shadow: 0 5px 20px 5px rgb(182, 136, 219);
+}
