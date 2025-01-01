@@ -1,0 +1,58 @@
+.about{
+    width: 100vw;
+    height: 100vh;
+    /* background-repeat: no-repeat; */
+    background: linear-gradient(rgba(142, 46, 180, 0.5), rgba(9, 9, 58, 0.5)), url('e-comm.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /* justify-content: space-between;
+    justify-content: space-around; */
+  }
+  .about-us{
+    /* align-items: center;
+    justify-content: center; */
+    text-align: center;
+    margin-top:auto;
+  }
+  .abt{
+    width: 1370px;
+    margin-left: -5px;
+    height: 300px;
+    background-color:#e8b1ea ;
+    /* display: flex;
+    justify-content: space-evenly; */
+    margin-top:auto;
+    margin-bottom: auto;
+    text-align: left;
+  }
+  .ah{
+    color: rgb(255, 254, 254);
+    font-size: 50px;
+  }
+  .t {
+    color: rgb(255, 254, 254);
+    font-size: 25px;
+  }
+  .h{
+    color:#303230 ;
+    font-size: 40px;
+    margin-left: 50px;
+    margin-top:auto;
+  }
+  #pr{
+    text-wrap: left;
+    margin-left: 50px;
+    font-size: 15px;
+  }
+  #myimg{
+    /* background-image: url('.leo.png'); */
+    width: 600px;
+    height: 600px;
+    float: right;
+    display: flex;
+    margin-top: -475px;
+    margin-right: 125px;
+  }
